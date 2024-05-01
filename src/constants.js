@@ -3,7 +3,7 @@ export const scaleFactor = 4;
 export const dialogueData = {
   pc: `This is my PC. I spend a lot of time infront of the computer, with double or triple monitors. I mostly work on data analysis and business intelligence applications as well as coding projects and app development. 
     I've made a couple of games in Pyhton and Javascript/Typescript. I also like Golang. Anyway regardless of the language, I just like programming.
-    Here is my <a href=https://github.com/contactrameezraja`,
+    Here is my git <https://github.com/contactrameezraja`,
   "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
   I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
