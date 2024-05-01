@@ -2,11 +2,11 @@ export const scaleFactor = 4;
 
 export const dialogueData = {
   pc: `This is my PC. I spend a lot of time infront of the computer, with double or triple monitors. I mostly work on data analysis and business intelligence applications as well as coding projects and app development. 
-    I've made a couple of games in Pyhton and Javascript/Typescript. I also like Golang. Anyway regardless of the language, I just like programming.',
+    I've made a couple of games in Pyhton and Javascript/Typescript. I also like Golang. Anyway regardless of the language, I just like programming.`,
     
   "cs-degree": `This is my MS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I rarely get time to watch any TV shows but if I do I like to relax here and watch YouTube.',
-  tv: `That's my TV. I've been watching tech youtubers a lot',
+  "sofa-table": `That's my sofa. I rarely get time to watch any TV shows but if I do I like to relax here and watch YouTube.`,
+  tv: `That's my TV. I've been watching tech youtubers a lot`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
   resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
   Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
